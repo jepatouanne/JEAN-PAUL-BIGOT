@@ -1,0 +1,36 @@
+/* CSS Document */
+header
+{
+background-color: rgb(215, 219, 221);
+width:100%;
+heigth:100px;
+}
+section aside
+{
+background-color: rgb(215, 219, 221);
+width:100%;
+heigth:400px;
+float:rigth;
+}
+section article
+{
+background-color: rgb(215, 219, 221);
+width:100%;
+heigth:400px;
+float:rigth;
+
+}
+footer
+{
+background-color: rgb(215, 219, 221);
+width:100%;
+heigth:400px;
+float:rigth;
+clear:both;
+}
+img
+{
+height:200px;
+float:left;
+}
+
